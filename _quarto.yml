@@ -3,18 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Hannah Chan"
+  favicon: favicon.png
   navbar:
+    log: logo.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - work.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
+    
+
 
 
 

@@ -1,0 +1,6 @@
+---
+title: "Work Experience"
+---
+
+Previously I had work at Institute of Data Science. 
+{{< video https://www.youtube.com/watch?v=L21ziOPrv-E width="600" height="400" >}}
