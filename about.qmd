@@ -6,8 +6,13 @@ I am passionate about Artificial Intelligence and loves to learn how to safely a
 
 I am constantly learning to keep up with the rapid pace of change in the field of AI. This also helps to develop relevant skills for technical work.
 
-
 ![National University of Singapore](./images/nus_pic.png){width=80%}
 
-I completed my Master of Science in Statistics at National University of Singapore.
+::: {style="float:left; position: relative; top: 0px"}
+![](./images/statistics_img.png){height="100px" style="margin-right: 10px; align: left"}
+:::
+
+I completed my Master of Science in Statistics at National University of Singapore. 
+
+
 
